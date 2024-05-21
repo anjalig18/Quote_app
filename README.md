@@ -14,8 +14,6 @@ A simple web application that displays random quotes and allows users to share t
   
 ![image](https://github.com/anjalig18/Quote_app/assets/92169945/d870230c-19fd-40ca-bf68-f129a7d98e45)
 
-- [Source Code](https://github.com/anjalig18/quote-app)
-
 ## Features
 
 - Fetches random quotes from an API.
